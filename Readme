@@ -1,7 +1,7 @@
 说明：
 	摘录于 Cracking the coding interview V4. Written in C++解决方案.
 详细信息，可以参考如下网站：
-	http://hawstein.com/posts/ctci-solutions-contents.htm
+	http://hawstein.com/posts/ctci-solutions-contents.html
 
 	其中classify.sh和export.sh 是两个脚本，用于分类/整理代码
 	代码fork于github，用于学习和交流。
